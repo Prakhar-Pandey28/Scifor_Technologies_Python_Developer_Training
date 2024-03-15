@@ -1,0 +1,2 @@
+# Scifor_Technologies_Python_Developer_Training
+all training phase assignments
